@@ -15,8 +15,10 @@ Once you have installed these libraries, you can clone this repository to your l
 ## Data
 The data used in this analysis is given within the repository and is organized into two separate CSV files:
 
-BollywoodActorRanking.csv: Contains information about the top-ranked Bollywood celebrities, including their name, actorId,movieCount,googleHits,normalizedRating,etc.
-BollywoodMovieDetail.csv: Contains information about the top-ranked Bollywood films, including the film title, director, rating, and box office performance.
+- BollywoodActorRanking.csv: 
+Contains information about the top-ranked Bollywood celebrities, including their name, actorId,movieCount,googleHits,normalizedRating,etc.
+- BollywoodMovieDetail.csv:
+Contains information about the top-ranked Bollywood films, including the film title, director, rating, and box office performance.
 
 ## Analysis
 The notebook contains the code for the exploratory data analysis. The notebook is organized into sections, each of which focuses on a different aspect of the data, such as top-ranked celebrities, top-ranked films, etc. The analysis includes a variety of visualizations, such as bar charts, scatter plots, and other visualizations, to help illustrate the trends and patterns in the data.
