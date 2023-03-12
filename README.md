@@ -16,8 +16,11 @@ Once you have installed these libraries, you can clone this repository to your l
 The data used in this analysis is given within the repository and is organized into two separate CSV files:
 
 - BollywoodActorRanking.csv: 
+
 Contains information about the top-ranked Bollywood celebrities, including their name, actorId,movieCount,googleHits,normalizedRating,etc.
+
 - BollywoodMovieDetail.csv:
+
 Contains information about the top-ranked Bollywood films, including the film title, director, rating, and box office performance.
 
 ## Analysis
