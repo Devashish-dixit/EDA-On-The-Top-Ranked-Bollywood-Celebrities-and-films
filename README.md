@@ -5,10 +5,10 @@ This repository contains the code and dataset for an exploratory data analysis (
 You can run the notebook on either web based services like google colab or you can run it locally on your machine.
 To run the code and replicate the results of the EDA, you will need to install the following Python libraries:
 
-Pandas
-NumPy
-Matplotlib
-Seaborn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 Once you have installed these libraries, you can clone this repository to your local machine and run the Jupyter notebook to reproduce the analysis.
 
